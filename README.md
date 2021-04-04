@@ -48,3 +48,5 @@ Wearing mask, please enter!
 #### Thanks to Alan Wang
 Check Alan Wang's Project and for more reference too: 
 [Alan Wang](https://github.com/alankrantas/TeachableMachine-p5js-serialport)
+
+And check this project to know how to work with the Arduino and the serial port to run the web port and Arduino file in sync here: [Click Here](https://experiments.withgoogle.com/tiny-sorter/view)
