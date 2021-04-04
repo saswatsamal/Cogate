@@ -3,7 +3,7 @@
 # CoGate
 Wearing mask, please enter!
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c019311c-de4d-420d-9bca-f37ac85ccc3b/deploy-status)](https://test-cogate.netlify.app/)
 
 ## How to use it?
 - Download the Zip file. And store it in your local directory.
