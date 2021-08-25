@@ -5,6 +5,8 @@
 
 Keywords: Corona; COVID19; Arduino; Mask; TensorflowJs; CoronaVirus; MaskDetection; 
 
+#### Read the whole project published here: [IJSRET_V7_issue2_261.pdf](https://ijsret.com/wp-content/uploads/2021/03/IJSRET_V7_issue2_261.pdf)
+
 ## Introduction & the Problem.
 There is widespread Corona Virus in the entire world and we have no solution rather have precautions and wearing masks is one of the essential. Since we found many people are entering without the mask to offices so I made this project.
 As per the problem, we have come with an excellent solution which will solve this problem.
