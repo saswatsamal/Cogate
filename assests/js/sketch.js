@@ -28,17 +28,29 @@
   }
 
   function draw() {
-    background(0);
     image(flippedVideo, 0, 0);
-    fill(255);
-    
-    textSize(32);
-    textAlign(CENTER);
     if(label==2){
-    text("Result: Mask " , width / 2, height - 4);}
-    else{
-      text("Result: No Mask " , width / 2, height - 4);
+      document.getElementById("load").innerHTML = `
+        <p class="mask">Thank you for wearing mask. Please enter! 🙏</p>
+        <style>
+        body{
+            background-color: green;
+        }
+      </style>
+      `  
     }
+    else{
+      document.getElementById("load").innerHTML = `
+        <p class="no-mask">Please wear a mask, properly. 😷</p>
+        <style>
+        body{
+            background-color: red;
+        }
+      </style>
+
+      `  
+    }
+    
   }
 
   function classifyVideo() {
